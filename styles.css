@@ -1,3 +1,4 @@
+/* Task 2 */
 .container {
   display: flex;
   justify-content: center;
@@ -8,11 +9,13 @@
 }
 
 .list {
-  border: 1px lightgray solid;
+  border: 1px rgb(0, 0, 0) solid;
   padding: 10px;
   list-style: none;
   color: green;
   font-size: 2rem;
+  font-weight: bolder;
+  background-color: lightgray;
 }
 
 footer {
