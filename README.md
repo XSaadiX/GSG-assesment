@@ -55,6 +55,11 @@ node task1.js
 1)Install TypeScript
 npm install -g typescript
 
+
+---------
+Created simple React application  
+----
+Personal card with skills and Photo
 2)Compile .ts files to .js
 tsc task1.ts
 
